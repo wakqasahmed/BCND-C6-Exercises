@@ -12,6 +12,7 @@
   },
   "author": "Nik Kalyani <nik@kalyani.com> https://www.kalyani.com",
   "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.1",
     "truffle": "^4.1.14",
     "truffle-hdwallet-provider": "^0.0.5"
   },
